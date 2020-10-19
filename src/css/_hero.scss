@@ -26,7 +26,7 @@
         z-index: 1;
     }
     .hero-2-bg-overlay {
-        background-image: url("../images/hero-2-bg.png");
+        // background-image: url("../../dist/assets/imgs/hero-2-bg.png");
         background-position: center center;
         @include hero-bg-overlay;
     }
@@ -39,7 +39,7 @@
         margin-top: 90px;
     }
     .hero-3-bg-overlay {
-        background-image: url("../images/hero-3-bg.png");
+        // background-image: url("../../dist/assets/imgs/hero-3-bg.png");
         @include hero-bg-overlay;
     }
 }
@@ -48,7 +48,7 @@
 .hero-4-bg {
     padding: 210px 0 190px;
     .hero-4-bg-overlay {
-        background-image: url("../images/hero-4-bg.png");
+        // background-image: url("../../dist/assets/imgs/hero-4-bg.png");
         background-position: center center;
         @include hero-bg-overlay;
     }
