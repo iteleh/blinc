@@ -1,0 +1,52 @@
+{
+  "name": "blinc",
+  "version": "1.0.0",
+  "description": "BLINC is a one stop learning portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acushlakoncept/blinc.git"
+  },
+  "keywords": [
+    "blinc",
+    "learning",
+    "portal",
+    "html",
+    "css",
+    "sass",
+    "javascript",
+    "webpack"
+  ],
+  "author": "Uduak Essien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acushlakoncept/blinc/issues"
+  },
+  "homepage": "https://github.com/acushlakoncept/blinc#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^26.3.0",
+    "css-loader": "^4.3.0",
+    "eslint": "^7.10.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "jest": "^26.4.2",
+    "node-sass": "^4.14.1",
+    "postcss-loader": "^4.0.2",
+    "sass-loader": "^10.0.2",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "node-fetch": "^2.6.1",
+    "popper.js": "^1.16.1"
+  }
+}
