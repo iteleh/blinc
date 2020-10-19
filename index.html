@@ -1,14 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Blinc</title>
-    <script src="https://kit.fontawesome.com/a076d05399.js"></script> 
-</head>
-<body>
-    <div id="content">  </div>
-    
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <!-- favicon -->
+    <link rel="shortcut icon" href="assets/imgs/favicon.ico" />
+  </head>
+  <body>
+    <!-- Loader -->
+    <div id="preloader">
+      <div id="status">
+        <div class="spinner">
+          <div class="dot1"></div>
+          <div class="dot2"></div>
+        </div>
+      </div>
+    </div>
+
+    <!--Navbar Start-->
+    <nav
+      class="navbar navbar-expand-lg fixed-top navbar-custom sticky sticky-dark"
+    >
+      <div class="container">
+        <!-- LOGO -->
+        <a class="navbar-brand logo" href="layout-one-1.html">
+          <img src="images/logo-dark.png" alt="" class="" height="21" />
+        </a>
+        <button
+          class="navbar-toggler p-0"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarCollapse"
+          aria-controls="navbarCollapse"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <i class="mdi mdi-menu"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav ml-auto navbar-center" id="mySidenav">
+            <li class="nav-item active">
+              <a href="#home" class="nav-link">Home</a>
+            </li>
+            <li class="nav-item">
+              <a href="#services" class="nav-link">Services</a>
+            </li>
+            <li class="nav-item">
+              <a href="#about" class="nav-link">About</a>
+            </li>
+            <li class="nav-item">
+              <a href="#features" class="nav-link">Features</a>
+            </li>
+            <li class="nav-item">
+              <a href="#clients" class="nav-link">Clients</a>
+            </li>
+          </ul>
+          <div class="call-no">
+            <a href="#" class="nav-link text-warning"
+              ><i class="mdi mdi-phone mr-1"></i> +00 1234 5678 90</a
+            >
+          </div>
+        </div>
+      </div>
+    </nav>
+    <!-- Navbar End -->
+
     <script src="main.js"></script>
-</body>
+  </body>
 </html>
