@@ -3,7 +3,7 @@ export const nav = `
 <div class="container">
 <!-- LOGO -->
 <a class="navbar-brand logo" href="index.html">
-  <img src="assets/imgs/htg-logo.png" alt="" class="" height="50" />
+  <img src="assets/imgs/blinc-orang.png" alt="blinc logo" class="" height="50" />
 </a>
 <button
   class="navbar-toggler p-0"

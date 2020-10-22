@@ -46,7 +46,7 @@ export const footer = `
             <div class="row mt-5">
                 <div class="col-md-12">
                     <div class="text-center text-muted">
-                        <p class="mb-0 f-15">2020 © BLINC. All rights reserved</p>
+                        <p class="mb-0 f-15">2020 © HTG. All rights reserved | Powered by <img src="assets/imgs/emLearners-logo.png" class="logo-dark" alt="eMLearners" height="24" /></p>
                     </div>
                 </div>
             </div>
