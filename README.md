@@ -2,7 +2,7 @@
 
 BLINC project helps schools manage the business of education, teach students virtually and track students and teachers progress in a single platform.
 
-![screenshot](./#)
+![screenshot](./dist/assets/imgs/screenshot.jpg)
 
 ## Built With
 
@@ -12,7 +12,7 @@ BLINC project helps schools manage the business of education, teach students vir
 - BootStrap
 
 ## Live Demo
-[Live Demo Link](#)
+[Live Demo Link](https://acushlakoncept.github.io/blinc/)
 
 
 ## Author
