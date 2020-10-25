@@ -33,8 +33,7 @@ export const nav = `
   </ul>
   <div class="call-no">
     <a href="#" class="nav-link text-warning"
-      ><i class="mdi mdi-phone mr-1"></i> +234 700 000 0000</a
-    >
+      ><i class="mdi mdi-phone mr-1"></i> +234 817 393 9393</a>
   </div>
 </div>
 </div>
