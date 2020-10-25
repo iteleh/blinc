@@ -4,8 +4,8 @@ export const services = `
 <div class="row justify-content-center">
     <div class="col-lg-6 col-md-8">
         <div class="title text-center mb-5">
-            <h3 class="font-weight-normal text-dark">Our <span class="text-warning">Service</span></h3>
-            <p class="text-muted">Our BLINC platform is a one stop learning portal, with a simple student teacher dashboard accessible anywhere in the world as well as providing an easy administration of your school via the application.</p>
+            <h3 class="font-weight-normal text-dark"><img src="assets/imgs/blinc-orang.png" alt="blinc logo" class="" height="40" /></h3>
+            <p class="text-muted">With  BLINC school owners can manage their schools on the go, teachers can teach, collaborate with and track student engagement in real time; publishers can also sell downloadable  ebooks- all through a single interface.</p>
         </div>
     </div>
 </div>
