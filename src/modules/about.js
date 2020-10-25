@@ -5,9 +5,8 @@ export const about = `
                 <div class="col-lg-6 col-md-8">
                     <div class="title text-center mb-5">
                         <h3 class="font-weight-normal text-dark">About <span class="text-warning">Us</span></h3>
-                        <p class="text-muted">BLINC helps schools manage the business of education, teach students virtually and track students and teachers progress in a single platform.
-                            
-                            </p>
+                        <p class="text-muted">Our platform is cloud-based, easy to use, secure and cost effective.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -19,12 +18,19 @@ export const about = `
                 <div class="col-md-7 offset-md-1">
                     <div class="row">
                         <div class="col-md-6">
-                            <h6 class="text-dark font-weight-light f-20 mb-3">Our Mission</h6>
-                            <p class="text-muted font-weight-light">Our mission is to make collaboration between school administration and other stakeholders (parents, students, staff and publishers) within and outside educational environment seamless.</p>
+                            <h6 class="text-dark font-weight-light f-20 mb-3">Why BLINC</h6>
+                            <ul class="text-muted font-weight-light">
+                            <li>Manage your school business on the go, from your Internet enabled device</li>
+                            <li>Customizable to suit your school's class naming system</li>
+                            <li>School branded mobile app downloadable from Plaistow for android(ios not available yet)</li>
+                            
                         </div>
                         <div class="col-md-6">
-                            <h6 class="text-dark font-weight-light f-20 mb-3">Our Vision</h6>
-                            <p class="text-muted font-weight-light">Our vision is to make collaboration between school administration and other stakeholders (parents, students, staff and publishers) within and outside educational environment seamless.</p>
+                            <h6 class="text-dark font-weight-light f-20 mb-3">&mdash;</h6>
+                            <ul class="text-muted font-weight-light">
+                            <li>Real-time teacher and student collaboration </li>
+                            <li>Easy to deploy</li>
+                            <li>Easy to use and very secure</li></ul>
                         </div>
                     </div>
                 </div>
