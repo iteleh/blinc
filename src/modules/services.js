@@ -17,8 +17,8 @@ export const services = `
                 <i class="pe-7s-headphones service-icon"></i>
             </div>
             <h5 class="service-title text-dark font-weight-normal pt-1 mb-4">Learning Management System</h5>
-            <p class="text-muted service-subtitle mb-4">The BLINC Learning Management System gives you access to all the features of a school management system and a marketplace for recommended books- all on one portal.</p>
-            <a href="#" class="read-more-icon" data-toggle="modal" data-target="#courseModal"><span class="right-icon">&#8594;</span></a>
+            <p class="text-muted service-subtitle mb-4">The BLINC Learning Management System gives you access to all the features of a school management system and a marketplace for recommended books- all in one portal.</p>
+            <a href="#" class="read-more-icon" data-toggle="modal" data-target="#courseModal"><span class="text-muted pb-4">readmore</span><span class="right-icon">  &#8594;</span></a>
         </div>
     </div>
     <div class="col-lg-4 col-md-6">
@@ -26,8 +26,8 @@ export const services = `
             <div class="mb-5">
                 <i class="pe-7s-tools service-icon"></i>
             </div>
-            <h5 class="service-title text-dark font-weight-normal pt-1 mb-4">Enterprise Relational Planning</h5>
-            <p class="text-muted service-subtitle mb-4">Manage Fees, Donations. Track income and expenses. Manage Staffing and Payrolls, Manage Hostel, Transport, Track all Payments and Defaulters</p>
+            <h5 class="service-title text-dark font-weight-normal pt-1 mb-4">School Management System</h5>
+            <p class="text-muted service-subtitle mb-4">The BLINC cloud- based School Management System helps school owners manage their schools from anywhere in the world, 24 hours a day on any internet-enabled device.</p>
             <a href="#" class="read-more-icon"><span class="right-icon">&#8594;</span></a>
         </div>
     </div>
