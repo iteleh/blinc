@@ -62,6 +62,7 @@ export const features = `
                         <a href="#" class="f-16 text-warning">Read More <span class="right-icon ml-2">&#8594;</span></a>
                     </div>
                 </div>
+
             </div>
         </div>
 `;
