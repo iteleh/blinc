@@ -22,7 +22,7 @@ export const about = `
                             <ul class="text-muted font-weight-light">
                             <li>Manage your school business on the go, from your Internet enabled device</li>
                             <li>Customizable to suit your school's class naming system</li>
-                            <li>School branded mobile app downloadable from Plaistow for android(ios not available yet)</li>
+                            <li>School branded mobile app downloadable from Playstore for android (IOS not available yet)</li>
                             
                         </div>
                         <div class="col-md-6">

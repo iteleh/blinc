@@ -21,15 +21,8 @@ export const features = `
                         <div class="features-icon my-4">
                             <i class="mdi mdi-laptop-mac"></i>
                         </div>
-                        <!--
-                        <h5 class="text-dark font-weight-normal mb-3 pt-3">Academic Result Management</h5>
-                        <p class="text-muted mb-3 f-15">Manage students’ academic result right on the platform reducing paper work with the ability to set tests, examination customize your report cards the way you want. </p>
-                        <h5 class="text-dark font-weight-normal mb-3 pt-3">Fees Management</h5>
-                        <p class="text-muted mb-3 f-15">Manage school fees based on school sessions with the abilities to know who paid for or not.</p>
-                        <a href="#" class="f-16 text-warning">Read More <span class="right-icon ml-2">&#8594;</span></a>
-                        -->
 
-
+                        <h5 class="text-dark font-weight-normal pt-3">BLINC For School Owners</h5>
                         <div id="carouselContent" class="carousel" data-ride="carousel1">
                             <ol class="carousel-indicators">
                                 <li data-target="#carouselContent" data-slide-to="0" class="active"></li>
