@@ -5,8 +5,6 @@ export const about = `
                 <div class="col-lg-6 col-md-8">
                     <div class="title text-center mb-5">
                         <h3 class="font-weight-normal text-dark">About <span class="text-warning">Us</span></h3>
-                        <p class="text-muted">Our platform is cloud-based, easy to use, secure and cost effective.
-                        </p>
                     </div>
                 </div>
             </div>
