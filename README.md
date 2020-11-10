@@ -12,7 +12,8 @@ BLINC project helps schools manage the business of education, teach students vir
 - BootStrap
 
 ## Live Demo
-[Live Demo Link](https://acushlakoncept.github.io/blinc/)
+[Live Demo Link](https://acushlakoncept.github.io/blinc/){:target="_blank"}
+
 
 
 ## Author
