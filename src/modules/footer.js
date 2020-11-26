@@ -14,7 +14,7 @@ export const footer = `
                         <div class="col-md-4">
                             <h6 class="footer-list-title text-dark mb-3">Quick Links</h6>
                             <ul class="list-unstyled company-sub-menu">
-                                <li><a href="#">Learning Management System</a></li>
+                                <li><a href="#" data-toggle="modal" data-target="#courseModal">Learning Management System</a></li>
                                 <li><a href="#">School Management System</a></li>
                                 <li><a href="https://htgacademy.com/" target="_blank">HTG Academy</a></li>
                                 <li><a href="http://theibomelibrary.com/" target="_blank">Ibom eLibrary</a></li>
