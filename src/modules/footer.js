@@ -32,7 +32,9 @@ export const footer = `
                         </div>
                         <div class="col-md-4">
                             <h6 class="footer-list-title text-dark mb-3">Our Address</h6>
+
                             <p class="text-muted f-14">Akwa Ibom State eLibrary, IBB Way, Uyo.</p>
+
                             <h6 class="text-muted pb-2">Email: support@blinc.com.ng</h6>
                             <ul class="list-unstyled footer-social-list mt-4">
                                 <li class="list-inline-item"><a href="#"><i class="fab fa-facebook"></i></a></li>
