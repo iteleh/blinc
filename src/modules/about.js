@@ -24,7 +24,7 @@ export const about = `
                             
                         </div>
                         <div class="col-md-6">
-                            <h6 class="text-dark font-weight-light f-20 mb-3">&mdash;</h6>
+                            <h6 class=" font-weight-light f-20 mb-3 "> . </h6>
                             <ul class="text-muted font-weight-light">
                             <li>Real-time teacher and student collaboration </li>
                             <li>Easy to deploy</li>
