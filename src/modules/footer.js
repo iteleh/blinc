@@ -5,8 +5,8 @@ export const footer = `
                 <div class="col-lg-4">
                     <div class="mb-4">
                         <a href="index.html"><img src="assets/imgs/htg-logo.png" alt="" class="logo-dark" height="56" /></a>
-                        <p class="text-muted mt-4 mb-2">info@theibomelibrary.com</p>
-                        <h6 class="text-muted font-weight-normal">+234 907 948 7954</h6>
+                        <p class="text-muted mt-4 mb-2">info@blinc.com </br> info@htgacademy.com</p>
+                        <h6 class="text-muted font-weight-normal">+234 817 393 9393</h6>
                     </div>
                 </div>
                 <div class="col-lg-8">
@@ -32,7 +32,9 @@ export const footer = `
                         </div>
                         <div class="col-md-4">
                             <h6 class="footer-list-title text-dark mb-3">Our Address</h6>
-                            <p class="text-muted f-14">Akwa Ibom State eLibrary</p>
+
+                            <p class="text-muted f-14">Akwa Ibom State eLibrary, IBB Way, Uyo.</p>
+
                             <h6 class="text-muted pb-2">Email: support@blinc.com.ng</h6>
                             <ul class="list-unstyled footer-social-list mt-4">
                                 <li class="list-inline-item"><a href="#"><i class="fab fa-facebook"></i></a></li>
