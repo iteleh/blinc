@@ -30,6 +30,9 @@ export const nav = `
     <li class="nav-item">
       <a href="#features" class="nav-link">Features</a>
     </li>
+    <li class="nav-item">
+      <a href="blog.blinc.com.ng" class="nav-link">Blog</a>
+    </li>
   </ul>
   <div class="call-no">
     <a href="#" class="nav-link text-warning"
